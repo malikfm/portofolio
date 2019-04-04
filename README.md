@@ -1,3 +1,6 @@
+### ElasticRESTAPI
+<p></p>
+<a href="https://github.com/malikfm/ElasticRESTAPI">github.com/malikfm/ElasticRESTAPI</a>
 
 ### ElasticSpark
 <p>This program illustrates how to insert JSON data to Elasticsearch and query from Elasticsearch using Java and Spark.</p>
