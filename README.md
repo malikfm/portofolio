@@ -1,5 +1,5 @@
 ### ElasticRESTAPI
-<p></p>
+<p>Spring Boot REST API to Elasticsearch.</p>
 <a href="https://github.com/malikfm/ElasticRESTAPI">github.com/malikfm/ElasticRESTAPI</a>
 
 ### ElasticSpark
