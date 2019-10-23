@@ -1,3 +1,7 @@
+### SimpleMessagingAPI
+<p>Create simple API for sending, collect, and display messages using Java Spring.</p>
+<a href="https://github.com/malikfm/SimpleMessagingAPI">github.com/malikfm/SimpleMessagingAPI</a>
+
 ### ElasticRESTAPI
 <p>Spring Boot REST API to Elasticsearch.</p>
 <a href="https://github.com/malikfm/ElasticRESTAPI">github.com/malikfm/ElasticRESTAPI</a>
